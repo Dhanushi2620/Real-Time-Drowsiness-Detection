@@ -50,3 +50,44 @@ The main objective is to build an intelligent real-time system that:
 ---
 
 
+---
+
+## 🔄 How It Works
+
+1. Webcam captures real-time video.
+2. Face and eyes are detected using OpenCV.
+3. Each eye image is fed into the trained CNN.
+4. If both eyes are closed:
+   - A timer starts.
+   - If closed for ≥10 seconds → Alarm sounds.
+   - If eyes open → Timer resets.
+
+---
+
+## 📦 Installation
+
+You can run this project on Google Colab or locally:
+
+### ▶️ On Google Colab:
+- Upload the notebook and required files.
+- Run all cells.
+
+---
+
+📊 Results
+
+- Model Accuracy: 92%
+- Drowsiness Detection Delay: <1s real-time
+- Use Case: Vehicle driver alertness monitoring
+
+---
+
+🙋‍♀️ Author
+- Dhanushi
+-- B.Tech CSE | ML Enthusiast | [LinkedIn](https://www.linkedin.com/in/dhanushi-gupta-b3b397215/)
+
+
+
+
+
+

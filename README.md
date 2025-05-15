@@ -45,9 +45,8 @@ The main objective is to build an intelligent real-time system that:
 
 ## 🖼️ Demo Screenshot
 
-![Drowsiness Detection Demo](./openeyes.png)
-
-
+![Dashboard Preview](./open eyes.png)
+![Dashboard Preview](./closed eyes.png)
 ---
 
 

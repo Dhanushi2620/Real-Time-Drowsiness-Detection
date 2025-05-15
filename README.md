@@ -84,7 +84,7 @@ You can run this project on Google Colab or locally:
 
 🙋‍♀️ Author
 - Dhanushi
--- B.Tech CSE | ML Enthusiast | [LinkedIn](https://www.linkedin.com/in/dhanushi-gupta-b3b397215/)
+- B.Tech CSE | ML Enthusiast | [LinkedIn](https://www.linkedin.com/in/dhanushi-gupta-b3b397215/)
 
 
 

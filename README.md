@@ -43,7 +43,9 @@ The main objective is to build an intelligent real-time system that:
 
 ---
 
-## 🖼️ Preview
+## 🖼️ Demo 
+
+### 👁️ Eye States
 
 ![Dashboard Preview](./open_eyes.png)
 ![Dashboard Preview](./closed_eyes.png)
